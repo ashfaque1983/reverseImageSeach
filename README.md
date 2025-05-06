@@ -98,7 +98,7 @@ If you encounter issues:
 
 ## Credits
 
-Developed by [Your Name]
+Developed by Ashfaque Ahmed
 
 ## License
 
